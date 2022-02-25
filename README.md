@@ -1,2 +1,2 @@
 # BEE
-Brief Report on Design Thinking in Business Moodels 
+Brief Report on Design Thinking in Business Models 
