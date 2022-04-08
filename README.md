@@ -1,2 +1,2 @@
 # BEE
-Brief Report on Design Thinking in Business Models 
+Application of  Design Thinking in Business Models 
